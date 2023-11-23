@@ -1,4 +1,4 @@
-const list = document.getElementById('fizz-list');
+const list = document.getElementById('fizz_list');
 
 // Creazione ciclo for
 for (let i=1; i<=100; i++){
@@ -17,7 +17,13 @@ for (let i=1; i<=100; i++){
         console.log('Fizz')
     }
     else{
+        value = i;
         console.log(i);
     }
     
+
+    // Bonus
+    const li = document.createElement('li');
+    li.innerText = value;
+    fizz_list.appendChild(li);
 }

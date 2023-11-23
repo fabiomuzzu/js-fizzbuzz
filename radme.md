@@ -22,5 +22,5 @@ SVOLGIMENTO:
 2 - Crea una variabile per i multipli
 3 - ? i numeri sono:
     3a - Multipli di di 3 e di 5 sostiuirli con la parola "Fizzbuzz"
-    3b - Multipli di 3 con sostituirli con la parola "Fizz"
-    3c - Multipli di 5 con sostituirli con la parola "Buzz"
+    3b - Multipli di 3 sostituirli con la parola "Fizz"
+    3c - Multipli di 5 sostituirli con la parola "Buzz"
